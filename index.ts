@@ -1,13 +1,13 @@
 import blog from "https://deno.land/x/blog@0.3.3/blog.tsx";
 
 blog({
-  title: "Simple Blog",
-  author: "Deno",
+  title: "Swarit's Wall",
+  author: "Swarit Choudhari",
   avatar: "./avatar.svg",
   avatarClass: "full",
   links: [
-    { title: "Email", url: "mailto:andy@deno.com" },
-    { title: "GitHub", url: "https://github.com/lambtron" },
+    { title: "Email", url: "mailto:swaritchoudhari.p.s.y@gmail.com" },
+    { title: "GitHub", url: "https://github.com/SwiftyProgrammer690" },
   ],
   background: "#fff"
 });
