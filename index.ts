@@ -10,7 +10,7 @@ blog({
     { title: "Email", url: "mailto:swaritchoudhari.p.s.y@gmail.com" },
     { title: "GitHub", url: "https://github.com/SwiftyProgrammer690" },
     { title: "Twitter", url: "https://twitter.com/ChoudhariSwarit"},
-    { title: "Replit", url: "https://replit.com/@SwaritChoudhari"}
+    { title: "Replit", url: "https://replit.com/@SwaritChoudhari"},
     { title: "Chess.com", url: "https://www.chess.com/member/chess_monk1"}
   ],
   background: "#fff",
